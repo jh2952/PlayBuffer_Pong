@@ -1,10 +1,3 @@
-// TO-DO:
-// - Add Obstacles
-// - Add Left-Right Movement
-//   - Draw Boundary Lines to show player territory
-// - Particle Effect from player on scoring
-// - Ball flash-in before reserving
-
 #define PLAY_IMPLEMENTATION
 #define PLAY_USING_GAMEOBJECT_MANAGER
 #define VK_KEY_W 0x57
