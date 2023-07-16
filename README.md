@@ -4,6 +4,10 @@
 
 - This project is a simple 2D pong game developed using the playbuffer framework by SumoDigital. The game features two players who can move up and down on the screen to send a ball between themselves.
 
+<h2>Gameplay</h2>
+
+https://github.com/jh2952/PlayBuffer_Pong/assets/98927631/4372e488-96b1-4e16-8810-c567c04effbc
+
 <h2>Key Features</h2>
 
 - Player Movement : Allowing responsive control
