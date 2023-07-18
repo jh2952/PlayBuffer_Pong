@@ -13,6 +13,7 @@ https://github.com/jh2952/PlayBuffer_Pong/assets/98927631/4372e488-96b1-4e16-881
 - Player Movement : Allowing responsive control
 - Ball Movement : Simulating a realistic bounce effect
 - Rectangular Collision Detection (as opposed to SumoDigital's radial collision detection)
+- Score Tracking
 
 <h2>Languages and Utilities Used</h2>
 
